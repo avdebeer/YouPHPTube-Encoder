@@ -2,7 +2,7 @@
 1. You should have already built the docker container for YouPHPtube from https://github.com/avdebeer/YouPHPTube
 
 2. Clone this repository
-  git clone https://github.com/stevenj/YouPHPTube-Encoder.git
+  git clone https://github.com/avdebeer/YouPHPTube-Encoder.git
 
 3. Build the docker container:
   sudo docker build -t youphptube-encoder YouPHPTube-Encoder
